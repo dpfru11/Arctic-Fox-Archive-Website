@@ -1,0 +1,66 @@
+header  {
+  text-align: center;
+  background-color: SlateBlue
+}
+.link-list {
+  background-color:LightGray;
+}
+
+.me_image {
+  background-color:SlateBlue;
+  max-width: 100%;
+  height: auto;
+}
+.fox_image_1 {
+  border-radius: 8px;
+  max-width:100%;
+  height:auto;
+}
+.fox_image_2 {
+  background-color:SlateBlue;
+  margin-left:20px;
+  margin-right:20px;
+  width:auto;
+  height:200px;
+  }
+.fox_image_3 {
+  margin-left:20px;
+  margin-right:20px;
+  height: 200px;
+  width: auto;
+}
+.fox_image_4 {
+  margin-left:20px;
+  margin-right:20px;
+  height: 200px;
+  width: auto;
+}
+.scratch_project {
+  background-color: SlateBlue
+}
+.vids_title {
+background-color:SlateBlue;
+}
+h2 {
+  background-color: SlateBlue;
+  text-align: center;
+}
+.fantastic_fox {
+  background-image: url("https://cdn.shopify.com/s/files/1/2107/1209/products/IMG_5660_copy.png?v=1500879326");
+  background-color: SlateBlue;
+}
+.DOOM {
+  margin-top:0;
+  background-image: url("https://cdn.shopify.com/s/files/1/2107/1209/products/IMG_5660_copy.png?v=1500879326");
+  background-color: SlateBlue;
+}
+body {
+  text-align: center;
+}
+.best_vids {
+  background-color:SlateBlue;
+}
+.project_stuff {
+  background-color:SlateBlue
+}
+
